@@ -13,6 +13,8 @@ public class HolaMundo {
 		else {
 			System.out.println("N2 es menor.");
 		}
+		
+		System.out.println("Adios.");
 	}
 
 }
